@@ -1,0 +1,5 @@
+E:\docs\programacion\wcf\WcfServiceExample\ServicioAritmeticoDataContracts\obj\Debug\ServicioAritmeticoDataContracts.csprojResolveAssemblyReference.cache
+E:\docs\programacion\wcf\WcfServiceExample\ServicioAritmeticoDataContracts\bin\Debug\ServicioAritmeticoDataContracts.dll
+E:\docs\programacion\wcf\WcfServiceExample\ServicioAritmeticoDataContracts\bin\Debug\ServicioAritmeticoDataContracts.pdb
+E:\docs\programacion\wcf\WcfServiceExample\ServicioAritmeticoDataContracts\obj\Debug\ServicioAritmeticoDataContracts.dll
+E:\docs\programacion\wcf\WcfServiceExample\ServicioAritmeticoDataContracts\obj\Debug\ServicioAritmeticoDataContracts.pdb

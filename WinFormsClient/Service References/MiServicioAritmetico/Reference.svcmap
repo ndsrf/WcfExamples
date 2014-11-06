@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="0000204b-dac3-41bd-b98b-c83d91d89a2e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:1356/ServicioAritmetico.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServicioAritmetico.xsd" MetadataType="Schema" ID="88aee72f-8d3c-4a50-85a9-390832c5684d" SourceId="1" SourceUrl="http://localhost:1356/ServicioAritmetico.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServicioAritmetico1.xsd" MetadataType="Schema" ID="41e79f99-eaf3-4b04-abe2-6726b30a879e" SourceId="1" SourceUrl="http://localhost:1356/ServicioAritmetico.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServicioAritmetico2.xsd" MetadataType="Schema" ID="924bfea8-155d-4300-bc0b-30b5070ce903" SourceId="1" SourceUrl="http://localhost:1356/ServicioAritmetico.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServicioAritmetico.disco" MetadataType="Disco" ID="1a725d36-17a9-456f-a4fe-693acff59218" SourceId="1" SourceUrl="http://localhost:1356/ServicioAritmetico.svc?disco" />
+    <MetadataFile FileName="ServicioAritmetico.wsdl" MetadataType="Wsdl" ID="607f485e-744e-4014-bbf7-8f857e2491da" SourceId="1" SourceUrl="http://localhost:1356/ServicioAritmetico.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
